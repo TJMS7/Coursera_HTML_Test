@@ -4,14 +4,14 @@
 }
 
 body{
-	margin: 5px;
+	margin: 0px;
 	padding: 0px;
 	font-family: "Comic Sans MS", cursive, sans-serif;
     }
 
 .row{
-	margin-top: 3%;
-	margin-bottom: 3%;
+	margin-top: 5%;
+	margin-bottom: 5%;
     }
 h1{
 	marging-bottom: 20px;
@@ -24,17 +24,17 @@ h1{
 .content-name{
 		overflow: none;
 		text-align: center;
-		border: 4px solidblack;
+		border: 4px solid black;
 		width: 100px;
 		height: 40px;
-		padding: 3px;
+		padding: 5px;
 		float: right;
 		margin-right: 36px;
 		margin-top: 0px;
 		position: relative;
 	}
 .content{
-	  border: 4px solidblack;
+	  border: 4px solid black;
 	  width: 90%;
 	  height: auto;
 	  margin: 2.5%;
